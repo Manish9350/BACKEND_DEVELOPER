@@ -7,6 +7,7 @@ export default function Footer() {
         <p>
           &copy; {new Date().getFullYear()} {profile.name}
         </p>
+        <p>Backend Developer</p>
       </div>
     </footer>
   );
