@@ -107,7 +107,7 @@ export const projects = [
   {
     name: 'E-commerce Platform',
     year: '2025',
-    link: 'https://github.com/Manish9350',
+    link: 'https://github.com/Manish9350/luxe-backend/',
     linkLabel: 'GitHub',
     live: false,
     points: [
