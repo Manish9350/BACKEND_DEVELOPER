@@ -35,7 +35,7 @@ export const summary = [
   'Backend developer currently building TripToTravels, with hands-on experience shipping a live product at onsiteamc.com.',
   'Specialize in Node.js, MongoDB, Redis and Docker — focused on writing clean, scalable APIs and production-ready backend systems.',
   'Improved API response times by 30% and reduced system latency by 40% across real-world projects through caching and query optimization.',
-  'Final-year BCA student at IITM College, Murthal, shipping production projects alongside academics.',
+  'BCA graduate student at IITM College, Murthal, shipping production projects alongside academics.',
 ];
 
 export const skills = [
